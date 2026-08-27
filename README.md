@@ -1,1 +1,1 @@
-# ChromaFuse
+# ChroFus
